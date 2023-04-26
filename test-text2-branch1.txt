@@ -2,7 +2,9 @@ Test Text2 Branch1
 - first line branch1
  * first line 2 branch1
  * first line 3 branch1
-- extra line branch1
+  ^ aaaaaaaa
+  ^ bbbbbbb
 - second line branch1
+ * rrrrrrrrr
 - third line branch1
 - fourth line branch1
